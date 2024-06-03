@@ -1,0 +1,111 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon0a5e.eot?qlclmr');
+  src:  url('../fonts/icomoon0a5e.eot?qlclmr#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon0a5e.ttf?qlclmr') format('truetype'),
+    url('../fonts/icomoon0a5e.woff?qlclmr') format('woff'),
+    url('../fonts/icomoon0a5e.svg?qlclmr#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-play-button-arrowhead:before {
+  content: "\e900";
+}
+.icon-time:before {
+  content: "\e901";
+}
+.icon-feedback:before {
+  content: "\e902";
+}
+.icon-check:before {
+  content: "\e903";
+}
+.icon-document:before {
+  content: "\e904";
+}
+.icon-positive-review:before {
+  content: "\e905";
+}
+.icon-question:before {
+  content: "\e906";
+}
+.icon-mission:before {
+  content: "\e907";
+}
+.icon-chat:before {
+  content: "\e908";
+}
+.icon-writing:before {
+  content: "\e909";
+}
+.icon-cms:before {
+  content: "\e90a";
+}
+.icon-headphones:before {
+  content: "\e90b";
+}
+.icon-mission-1:before {
+  content: "\e90c";
+}
+.icon-research:before {
+  content: "\e90d";
+}
+.icon-submit:before {
+  content: "\e90e";
+}
+.icon-target:before {
+  content: "\e90f";
+}
+.icon-handshake:before {
+  content: "\e910";
+}
+.icon-24-hours:before {
+  content: "\e911";
+}
+.icon-diamond:before {
+  content: "\e912";
+}
+.icon-phone-call:before {
+  content: "\e913";
+}
+.icon-email:before {
+  content: "\e914";
+}
+.icon-location:before {
+  content: "\e915";
+}
+.icon-magnifying-glass:before {
+  content: "\e916";
+}
+.icon-plus:before {
+  content: "\e917";
+}
+.icon-minus-sign:before {
+  content: "\e918";
+}
+.icon-quote:before {
+  content: "\e919";
+}
+.icon-down-arrow:before {
+  content: "\e91a";
+}
+.icon-add-1:before {
+  content: "\e93d";
+}
